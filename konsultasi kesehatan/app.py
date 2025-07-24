@@ -29,7 +29,7 @@ INITIAL_CHATBOT_CONTEXT = [
 # ==============================================================================
 
 st.set_page_config(page_title="Asisten Kesehatan Wanita AI")
-st.title("????? Asisten Kesehatan Wanita AI")
+st.title("👩‍⚕️ Asisten Kesehatan Wanita AI")
 st.write("Profesional, ramah, dan menjaga kerahasiaan. Saya siap membantu Anda memahami kondisi kesehatan, memberikan saran awal yang aman, dan mengarahkan ke dokter jika diperlukan.")
 
 # Mengambil API Key dari Streamlit Secrets
